@@ -3,7 +3,7 @@
 body {
   font-family: "DM Serif Display", serif;
   background-color: #eae6e3;
-  color: #0d0d0d;
+  color: #5c4d43;
   text-align: center;
   -webkit-font-smoothing: antialiased;
 }
@@ -12,7 +12,6 @@ h1 {
   left: 50%;
   margin: 0;
   top: 50%;
-/*   color: #40322b; */
   position: absolute;
   transform: translate(-50%, -50%);
 }
@@ -22,6 +21,7 @@ h1 {
   display: inline-flex;
   margin: -5px;
   padding: 5px;
+  letter-spacing: 2px;
 }
 
 .title-letter {
